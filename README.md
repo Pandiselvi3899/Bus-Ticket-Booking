@@ -1,5 +1,4 @@
-# MERN-BUS-APP
-## (My First Real Project) 
+# MERN-BUS-APP 
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
@@ -76,58 +75,6 @@ Payment & Confirmation Page:
 * [Express js](http://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 * [MongoDB atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Atlas is the global cloud database service for modern applications.
 * [Passport Js](http://www.passportjs.org/) - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
----
 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-The following software is required to be installed on your system:
-
-* Node 8.x
-* Npm 3.x
-
-Type the following commands in the terminal to verify your node and npm versions
-
-```bash
-node -v
-npm -v
-```
-
-### Install
-
-
-
-* Install node modules
-
-   ```bash
-   cd MERN-BUS-APP
-   cd frontend
-   npm install
-   cd..
-   cd backend
-   npm install
-   ```
-
-
-### Starting both front end and back end servers
-
-* Build application
-
-  This command will start the mongodb and the front end part.
-
-  ```bash
-  cd frontend
-  npm start
-  cd..
-  cd backend
-  npm run devStart
-  ```
-
-
----
 
 
