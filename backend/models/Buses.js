@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 
 
 const BusSchema = new Schema({
-    companyName: {
+    CompanyName: {
         type: String
     },
     busType: {

@@ -8,7 +8,7 @@ import Signup from './components/Login-Signup/Signup'
 import Profile from './components/Profile/Profile'
 import TicketPage from './components/TicketPage/TicketPage'
 import './App.css';
-
+export const URL = 'https://bus-book.herokuapp.com/'
 function App() {
   return (
     <div className="App">
