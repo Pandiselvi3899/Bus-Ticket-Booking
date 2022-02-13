@@ -1,4 +1,4 @@
-# MERN-BUS-APP 
+# MERN-BUS-APP
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
@@ -8,9 +8,7 @@ The Bus ticket application is composed of the following Features:
 
 * Sign-In & Sign-Up Pages.
 
-* Uses Token based system, so only registered users can access the website  passport js.
-
-* Password hashing using passport js.
+* Uses Token based system, so only registered users can access the website.
 
 * Has a profile page, which will display all information about the signed in user.
 
@@ -29,10 +27,6 @@ The Bus ticket application is composed of the following Features:
 * Uses Express js based application for the backend process.
 
 * Uses MongoDB atlas for storing the collections.
-
-* Uses passport js for authenticating user and token based system.
-
-* Uses passport js for hashing the password before sending the data to the cloud.
 
 * This version does not support dynamic seat data being stored from cloud.
 
@@ -74,7 +68,3 @@ Payment & Confirmation Page:
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [Express js](http://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 * [MongoDB atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Atlas is the global cloud database service for modern applications.
-* [Passport Js](http://www.passportjs.org/) - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
-
-
-
