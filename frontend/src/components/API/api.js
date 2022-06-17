@@ -1,4 +1,4 @@
 import axios from 'axios'
 export default axios.create({
-    baseURL: 'https://bus-book.herokuapp.com/'
+    baseURL: 'https://busticket-book.herokuapp.com/'
 })
